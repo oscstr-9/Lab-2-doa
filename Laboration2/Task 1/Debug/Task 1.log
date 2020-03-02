@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\oscstr-9\onedrive - ltu.se\c++\doa\laboration2\task 1\main.cpp(105): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\oscstr-9\onedrive - ltu.se\c++\doa\laboration2\task 1\main.cpp(106): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task 1.vcxproj -> C:\Users\oscstr-9\OneDrive - ltu.se\C++\Doa\Laboration2\Debug\Task 1.exe
